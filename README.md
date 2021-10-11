@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @iamhamzaawan
 - 👀 I’m interested in ROR and react projects
-- 🌱 I’m currently learning product development cycle
+- 🌱 I’m a budding a entrepreneur
 - 💞️ I’m looking to collaborate on ROR and react projects
 - 📫 You can email me if you have concerns regarding anything at hamza_awan1996@hotmail.com
 
