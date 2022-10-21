@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iamhamzaawan&label=Profile%20views&color=0e75b6&style=flat" alt="iamhamzaawan" /> </p>
  
- Hey! I am a CS grad having 2+ years of experience in different domains of Computer Science has a vast experience as a ROR and Blockchain developer with different tools and technologies and worked on various complex projects which include B2B, eCommerce, SaaS, and decentralized applications. 
+ Hey! I am a CS grad having 2+ years of experience in different domains of Computer Science has a vast experience as a ROR, JS and Blockchain developer with different tools and technologies and worked on various complex projects which include B2B, eCommerce, SaaS, and decentralized applications. 
 
 Besides this, I am also a foodie and love traveling. I also have some photography, videography, and design skills. My hobbies include gaming, traveling, watching movies, and socializing. 
 
-In the end, looking forward to contribute in open source project, help peoples in there problem and make this world a better place. DM me I don't bite :)
+In the end, looking forward to contribute in open source project, help peoples in there problems and make this world a better place. DM me I don't bite :)
 
 <br>
 <h3 align="left">Connect with me:</h3>
